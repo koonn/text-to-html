@@ -2,10 +2,16 @@
 
 「Python基礎&実践プログラミング」20章
 
-## 基本機能の使い方
+## 基本実装版の機能の使い方
 
 ```shell script
 python3 text_to_html/simple_markup.py < test_input.txt > test_output.html 
+```
+
+## 2回目の実装版の機能の使い方
+
+```shell script
+python3 text_to_html/markup.py < test_input.txt > test_output.html 
 ```
 
 ## TODO
