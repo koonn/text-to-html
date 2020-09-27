@@ -19,6 +19,11 @@ def lines(file):
 def blocks(file):
     """
 
+    Args:
+        file:
+
+    Returns:
+
     """
     block = []
     for line in lines(file):
